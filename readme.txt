@@ -1,3 +1,6 @@
+# This is NOT an official repository
+Please read story here [Fix W3 Total Cache W3_Plugin_TotalCache::Ob_callback() Expected To Be A Reference](http://gadelkareem.com/2016/04/06/fix-w3-total-cache-w3_plugin_totalcacheob_callback-expected-reference/)
+
 === Plugin Name ===
 Contributors: fredericktownes
 Tags: wpo, web performance optimization, performance, availability, scaling, scalability, user experience, cache, caching, page cache, css cache, js cache, db cache, disk cache, disk caching, database cache, http compression, gzip, deflate, minify, cdn, content delivery network, media library, performance, speed, multiple hosts, css, merge, combine, unobtrusive javascript, compress, optimize, optimizer, javascript, js, cascading style sheet, plugin, yslow, yui, google, google rank, google page speed, mod_pagespeed, new relic, newrelic, aws, s3, cloudfront, sns, elasticache, rds, flash media server, amazon web services, cloud files, rackspace, akamai, max cdn, limelight, cloudflare, mod_cloudflare, microsoft, microsoft azure, iis, nginx, litespeed, apache, varnish, xcache, apc, eacclerator, wincache, mysql, w3 total cache, batcache, wp cache, wp super cache, quick cache, wp minify, bwp-minify, buddypress
